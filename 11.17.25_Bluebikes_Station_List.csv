@@ -1,0 +1,599 @@
+Last Updated:,11/17/2025,,,,,,
+Number,NAME,Lat,Long,Seasonal Status,Municipality,Total Docks,Station ID (to match to historic system data)
+C32083,Washington St at Walsh Playground,42.2771947,-71.06955614,Winter Storage,Boston,19,430
+C32067,Washington St at Peters Park,42.3438524,-71.06764555,Winter Storage,Boston,19,412
+C32084,Washington St at Fuller St,42.28198628,-71.07147925,Year Round,Boston,15,431
+C32081,Washington St at Denton Terr,42.28072815,-71.13423757,Winter Storage,Boston,19,427
+C32042,Washington St at Bowdoin St,42.29916498,-71.07345872,Winter Storage,Boston,15,259
+B32030,Walnut Ave at Warren St,42.324081,-71.083235,Winter Storage,Boston,15,204
+C32019,Uphams Corner,42.31727474,-71.06537004,Winter Storage,Boston,15,130
+C32049,Thetford Ave at Norfolk St,42.28621295,-71.07942931,Year Round,Boston,15,347
+C32031,Ryan Playground - Dorchester Ave at Harbor View St,42.317642,-71.056664,Winter Storage,Boston,15,167
+D32012,Post Office Square,42.35585436,-71.05459746,Winter Storage,Boston,19,48
+V32009,Pope John High School,42.4203487,-71.04419768,Winter Storage,Everett,15,No ID pre-March 2023
+A32029,Piers Park,42.3650112,-71.03528559,Winter Storage,Boston,15,211
+B32012,Northeastern University - North Parking Lot,42.341814,-71.090179,Winter Storage,Boston,15,5
+B32000,Newbury St at Hereford St,42.348717,-71.085954,Winter Storage,Boston,23,52
+C32080,Mt. Hope St at Hyde Park Ave,42.28484472,-71.11874517,Winter Storage,Boston,19,423
+C23045,Morton St T,42.28072514,-71.08617242,Winter Storage,Boston,15,343
+C32096,Knoll St at Centre St,42.29376656,-71.1365658,Winter Storage,Boston,19,512
+E32002,Jamaicaway at Perkins St,42.321251,-71.116483,Winter Storage,Boston,20,No ID pre-March 2023
+C32100,Hyde Park Ave at Arlington St,42.26286746,-71.12163126,Winter Storage,Boston,19,542
+D32026,Hayes Square - Vine St at Moulton St,42.377022,-71.056605,Winter Storage,Boston,19,129
+A32034,Glendon St at Condor St,42.38240378,-71.03024304,Winter Storage,Boston,19,216
+C32116,Dorchester Ave at Savin Hill Ave,42.312398,-71.057430,Winter Storage,Boston,15,No ID pre-March 2023
+C32010,Congress St at Sleeper St,42.3510045,-71.04930013,Winter Storage,Boston,23,64
+D32047,Clarendon St at Newbury St,42.35159662,-71.07561663,Winter Storage,Boston,19,384
+E32008,Centre St at Seaverns Ave,42.3121203,-71.1142981,Winter Storage,Boston,15,357
+A32046,Canal St at Causeway St,42.365301,-71.060922,Winter Storage,Boston,23,459
+L32004,Broadway at Grafton St,42.40994213,-71.1400932,Winter Storage,Arlington,11,465
+A32047,Broad St at Central St,42.35849449,-71.0542647,Winter Storage,Boston,15,460
+D32058,Brighton Ave at Linden St,42.3528376,-71.1296752,Winter Storage,Boston,19,567
+C32002,Boston Medical Center - E Concord St at Harrison Ave,42.33639915,-71.07306711,Winter Storage,Boston,19,13
+B32057,Blue Hill Ave at Southwood St,42.31786021,-71.07798629,Winter Storage,Boston,15,368
+D32050,Blossom St at Charles St,42.36435589,-71.06959369,Winter Storage,Boston,15,416
+B32016,Beacon St at Massachusetts Ave,42.35082681,-71.08981088,Year Round,Boston,19,53
+D32004,Arch St at Franklin St,42.35533502,-71.05822917,Winter Storage,Boston,31,35
+C32012,Andrew T Stop - Dorchester Ave at Dexter St,42.33073333,-71.05699851,Winter Storage,Boston,15,113
+C32101,American Legion Hwy at Hyde Park Ave,42.27265394,-71.11990392,Winter Storage,Boston,19,543
+A32054,Addison St at Saratoga St,42.38518147,-71.0151367,Winter Storage,Boston,19,563
+A32043,Western Ave at Richardson St,42.36178741,-71.14393111,Year Round,Boston,19,428
+B32025,Uphams Corner T Stop - Magnolia St at Dudley St,42.31869734,-71.06978148,Year Round,Boston,15,199
+C32078,Northbourne Rd at Hyde Park Ave,42.29118035,-71.11773666,Year Round,Boston,19,421
+C32018,E Cottage St at Columbia Rd,42.320561,-71.06198,Year Round,Boston,19,128
+D32055,Boylston St at Dartmouth St,42.350413,-71.07655,Winter Storage,Boston,19,No ID pre-March 2023
+C32095,Bellevue T Stop,42.28611421,-71.14636928,Winter Storage,Boston,19,511
+D32007,Boylston St at Arlington St,42.352808,-71.067585,Year Round,Boston,31,42
+A32068,Wood Island T Stop - Vienna St at Bennington St,42.380148,-71.024293,Year Round,Boston,21,No ID pre-March 2023
+F32014,Winthrop Circle,42.421361,-71.117556,Year Round,Medford,11,No ID pre-March 2023
+S32005,Wilson Square,42.38567579,-71.11412136,Year Round,Somerville,15,99
+D32040,Williams St at Washington St,42.306539,-71.107669,Year Round,Boston,23,279
+B32059,Whittier St Health Center,42.33286288,-71.09218862,Year Round,Boston,19,443
+A32064,Western Ave at Leo Birmingham Pkwy,42.361559,-71.14506,Year Round,Boston,16,No ID pre-March 2023
+A32062,Western Ave at Everett St,42.363168,-71.134719,Year Round,Boston,17,No ID pre-March 2023
+N32006,[Removed] West Newton Armory,42.35410408,-71.21382214,Year Round,Newton,0,474
+N32005,West Newton,42.3496005,-71.22627497,Year Round,Newton,15,473
+F32007,West Medford Square (Bower St at Harvard Ave),42.420647,-71.133483,Year Round,Medford,11,No ID pre-March 2023
+D32022,West End Park,42.36590788,-71.06446669,Year Round,Boston,11,109
+B32021,Wentworth Institute of Technology - Huntington Ave at Vancouver St,42.33758601,-71.09627098,Year Round,Boston,14,160
+V32014,Wellington MBTA,42.4023682,-71.07573182,Year Round,Medford,19,565
+W32010,Watertown St at 5th Ave,42.36289,-71.19127,Year Round,Watertown,19,No ID pre-March 2023
+W32002,Watertown Sq,42.36526032,-71.18573324,Year Round,Watertown,15,458
+W32005,Watertown City Hall,42.36759308,-71.18751436,Year Round,Watertown,11,494
+C32034,Watermark Seaport - Boston Wharf Rd at Seaport Blvd,42.351586,-71.04569256,Year Round,Boston,15,218
+D32002,Washington St at Waltham St,42.34157472,-71.0689044,Year Round,Boston,15,26
+N32014,Washington St at Walnut St,42.35145812,-71.20764971,Year Round,Newton,11,528
+C32115,Washington St at W Dedham St,42.340349,-71.071673,Year Round,Boston,15,No ID pre-March 2023
+D32030,Washington St at Temple Pl,42.354968,-71.060977,Year Round,Boston,19,No ID pre-March 2023
+C32038,Washington St at Talbot Ave,42.290333,-71.071806,Year Round,Boston,17,349
+C32006,Washington St at Rutland St,42.3385146,-71.07404083,Year Round,Boston,27,39
+C32072,Washington St at Northampton St,42.336259,-71.077564,Year Round,Boston,20,No ID pre-March 2023
+S32021,Washington St at Myrtle St,42.38103732,-71.08709779,Year Round,Somerville,15,329
+D32077,Washington St at Mina Way,42.352982,-71.173224,Winter Storage,Boston,15,No ID pre-March 2023
+B32026,Washington St at Melnea Cass Blvd,42.332817,-71.081198,Year Round,Boston,19,200
+C32005,Washington St at Lenox St,42.33509899,-71.07903779,Year Round,Boston,15,51
+K32011,[Removed] Washington St at Griggs Rd,42.33985827,-71.13421171,Year Round,Brookline,0,402
+N32001,Washington St at Crafts St,42.35389024,-71.19943707,Year Round,Newton,11,467
+A32037,Washington St at Corey Rd,42.34286835,-71.14127841,Year Round,Boston,15,354
+D32029,Washington St at Brock St,42.34895285,-71.16031677,Year Round,Boston,15,174
+D32021,Warren St at Chelsea St,42.371848,-71.060292,Year Round,Boston,23,98
+C32076,Warren Ave at Dartmouth St,42.344310,-71.074034,Year Round,Boston,15,No ID pre-March 2023
+C32102,Walnut Ave at School St,42.31242399,-71.09616905,Year Round,Boston,19,539
+D32072,Walbridge St at Commonwealth Ave,42.347756,-71.135676,Year Round,Boston,19,No ID pre-March 2023
+C32016,W Broadway at Dorchester St,42.33595898,-71.046229,Year Round,Boston,17,121
+C32029,W Broadway at D St,42.3391085,-71.0514432,Year Round,Boston,23,161
+T32017,Vinnin Square,42.48628785,-70.90166733,Year Round,Salem,11,No ID pre-March 2023
+M32050,Verizon Innovation Hub 10 Ware Street,42.37250865,-71.11305356,Year Round,Cambridge,19,221
+A32053,Valenti Way at Haverhill St,42.36473899,-71.05934903,Year Round,Boston,24,549
+M32040,University Park,42.36264779,-71.10006094,Year Round,Cambridge,19,177
+C32014,University of Massachusetts Boston - Campus Center,42.31218918,-71.03648586,Year Round,Boston,19,92
+N32008,Union St at Herrick Rd,42.330528,-71.192861,Year Round,Newton,11,486
+S32054,Union Square Station,42.377309,-71.094428,Year Round,Somerville,19,No ID pre-March 2023
+S32041,Union Square East,42.380078,-71.090098,Year Round,Somerville,19,495
+S32002,Union Square - Somerville,42.3796479,-71.09540476,Year Round,Somerville,19,78
+A32001,Union Square - Brighton Ave at Cambridge St,42.353334,-71.137313,Year Round,Boston,19,8
+F32003,Tufts Sq - Main St at Medford St,42.401697,-71.106128,Year Round,Medford,11,578
+E32018,Truman Parkway at Fairmount Ave,42.252287,-71.118358,Winter Storage,Boston,19,No ID pre-March 2023
+C32035,Troy Boston,42.343749,-71.062256,Year Round,Boston,14,222
+D32014,Tremont St at West St,42.354979,-71.063348,Year Round,Boston,15,54
+C32060,Tremont St at W. Dedham St,42.34254914,-71.07421449,Year Round,Boston,15,379
+C32056,Tremont St at Northampton St,42.3384318,-71.0816905,Year Round,Boston,19,364
+B32056,Tremont St at Hamilton Pl,42.35668335,-71.06166646,Year Round,Boston,19,374
+C32000,Tremont St at E Berkeley St,42.345392,-71.069616,Year Round,Boston,19,4
+A32058,Tremont St at Court St,42.359322,-71.059624,Year Round,Boston,19,No ID pre-March 2023
+L32005,Thorndike Field at Minuteman Bikeway,42.40016805,-71.14456963,Year Round,Arlington,11,480
+M32048,Third at Binney,42.36544486,-71.08277142,Year Round,Cambridge,15,185
+D32054,The Overlook at St. Gabriel's,42.34679008,-71.14549814,Year Round,Boston,19,447
+C32028,The Lawn on D,42.344792,-71.044024,Year Round,Boston,19,163
+A32033,The Eddy - New St at Sumner St,42.370744,-71.044201,Year Round,Boston,15,215
+E32011,The Dimock Center,42.31930943,-71.09639924,Year Round,Boston,16,425
+S32011,Teele Square,42.4008795,-71.12590793,Year Round,Somerville,15,114
+K32008,Tappan St at Brookline Hills MBTA,42.33137017,-71.12688361,Year Round,Brookline,15,191
+C32110,Talbot Ave T Station,42.29225148,-71.07797205,Year Round,Boston,19,No ID pre-March 2023
+C32043,Talbot Ave At Blue Hill Ave,42.2945833,-71.087111,Year Round,Boston,15,348
+C32064,Sydney St at Carson St,42.32039374,-71.05355408,Year Round,Boston,19,405
+V32007,Swan St. Park,42.41250451,-71.05842225,Year Round,Everett,15,393
+L32007,Swan Place at Minuteman Bikeway,42.414705,-71.152377,Year Round,Arlington,11,No ID pre-March 2023
+A32042,Surface Rd at Summer St,42.3529457,-71.05656401,Year Round,Boston,27,426
+A32067,Surface Rd at State Street,42.359743,-71.052602,Year Round,Boston,15,No ID pre-March 2023
+A32013,Surface Rd at India St,42.358155,-71.052163,Year Round,Boston,19,151
+R32001,[Removed] Sumner St at Shirley Ave,42.40833706,-70.99804848,Year Round,Revere,0,540
+D32053,Sullivan Square,42.38445226,-71.07514855,Year Round,Boston,19,441
+D32062 ,Stuart St at Church St,42.350667,-71.068306,Year Round,Boston,20,No ID pre-March 2023
+D32011,Stuart St at Charles St,42.351146,-71.066289,Year Round,Boston,18,49
+D32049,Stuart St at Berkeley St,42.34954403,-71.07242074,Year Round,Boston,19,415
+D32041,Stony Brook T Stop,42.316966,-71.104374,Year Round,Boston,19,282
+F32012,Steve Miller Dr at Winthrop St (Medford High),42.428086,-71.12636,Year Round,Medford,11,No ID pre-March 2023
+C32024,State Street at Channel Center,42.344137,-71.052608,Year Round,Boston,19,150
+A32024,Staniford St at Merrimac St,42.36358,-71.063721,Year Round,Boston,24,No ID pre-March 2023
+A32014,Stadium Rd at Western Ave,42.363060,-71.125045,Year Round,Boston,32,No ID pre-March 2023
+B32063,St. Alphonsus St at Tremont St,42.33329255,-71.10124648,Year Round,Boston,18,558
+K32007,St Mary's,42.34619708,-71.10728681,Year Round,Brookline,15,233
+C32087,Spring St at Powell St,42.27748444,-71.16341468,Year Round,Boston,19,434
+D32023,Spaulding Rehabilitation Hospital - Charlestown Navy Yard,42.378338,-71.048927,Year Round,Boston,19,85
+A32010,South Station - 700 Atlantic Ave,42.352175,-71.055547,Year Round,Boston,47,22
+A32009,South End Library - Tremont St at W Newton St,42.341332,-71.076847,Year Round,Boston,15,25
+C32017,South Boston Library - 646 E Broadway,42.335741,-71.03877,Year Round,Boston,15,119
+S32052,Somerville Hospital,42.390413,-71.108571,Year Round,Somerville,15,156
+S32048,Somerville High School & Central Library,42.3864,-71.09601,Year Round,Somerville,17,550
+S32036,Somerville City Hall Annex,42.39189812,-71.09745376,Year Round,Somerville,19,406
+S32001,Somerville City Hall,42.386844,-71.09812,Year Round,Somerville,19,77
+A32006,Soldiers Field Park - 111 Western Ave,42.36426344,-71.1182757,Year Round,Boston,15,17
+B32070,Smith St at Parker St,42.332902,-71.096833,Year Round,Boston,19,No ID pre-March 2023
+M32069,Smith Pl at Wilson Rd,42.39239749,-71.15058332,Year Round,Cambridge,19,463
+D32032,Silber Way,42.349496,-71.10057592,Year Round,Boston,19,227
+M32047,Sidney Research Campus/Erie Street at Waverly,42.35775309,-71.10393405,Year Round,Cambridge,19,184
+T32003,Shetland Park - Congress at Peabody St,42.51836788,-70.88952363,Year Round,Salem,11,518
+E32009,Shawmut T Stop,42.292917,-71.06575,Year Round,Boston,19,272
+D32048,Shawmut Ave at Oak St W,42.34854543,-71.06559185,Year Round,Boston,15,399
+D32059,Shawmut Ave at Lenox St,42.33584613,-71.08038157,Year Round,Boston,19,568
+C32054,Shawmut Ave at Herald St,42.346647,-71.066049,Year Round,Boston,20,No ID pre-March 2023
+D32069,Shawmut Ave at E Berkeley St,42.344607,-71.067020,Year Round,Boston,16,No ID pre-March 2023
+M32063,Sennott Park Broadway at Norfolk Street,42.36860524,-71.09930186,Year Round,Cambridge,19,386
+B32007,Seaport Square - Seaport Blvd at Northern Ave,42.35148193,-71.04436085,Year Round,Boston,23,24
+B32014,Seaport Hotel - Congress St at Seaport Ln,42.34881026,-71.04167744,Year Round,Boston,19,31
+C32036,Seaport Blvd at Sleeper St,42.35317809,-71.04817357,Year Round,Boston,15,157
+C32033,Savin Hill T Stop - S Sydney St at Bay St,42.3106,-71.0539,Year Round,Boston,14,173
+T32002,Salem Willows Park,42.53466911,-70.8702144,Year Round,Salem,15,517
+T32009,Salem State University - North Campus,42.503332,-70.891444,Year Round,Salem,11,570
+T32007 ,Salem State University - Bike Path at Loring Ave,42.501824,-70.894781,Year Round,Salem,15,No ID pre-March 2023
+T32005,Salem MBTA - Washington at Federal St,42.52345239,-70.89611113,Year Round,Salem,13,520
+T32012,Salem MBTA - Lower Level,42.523994,-70.89684,Year Round,Salem,11,573
+T32001,Salem Ferry Landing,42.52189284,-70.88069111,Year Round,Salem,11,516
+E32007,S Huntington Ave at Heath St,42.32760387,-71.1108917,Year Round,Boston,15,159
+D32071,Rutherford Ave at Main St,42.383850,-71.073114,Year Round,Boston,16,No ID pre-March 2023
+D32070,Rutherford Ave at Bunker Hill Industrial Park,42.379307,-71.071431,Year Round,Boston,20,No ID pre-March 2023
+B32002,Ruggles T Stop - Columbus Ave at Melnea Cass Blvd,42.33624445,-71.08798563,Year Round,Boston,26,12
+B32022,Roxbury YMCA - Warren St at MLK Blvd,42.31787329,-71.08243078,Year Round,Boston,10,196
+C32001,Roxbury Crossing T Stop - Columbus Ave at Tremont St,42.331184,-71.095171,Year Round,Boston,23,27
+D32008,Rowes Wharf at Atlantic Ave,42.357143,-71.050699,Year Round,Boston,15,43
+E32014,Ross Playground,42.2645666,-71.1145523,Year Round,Boston,19,556
+C32046,Roslindale Village - Washington St,42.28630716,-71.12820532,Year Round,Boston,15,341
+C32047,Roslindale Village - South St,42.287072,-71.127754,Year Round,Boston,15,337
+M32035,Rogers St & Land Blvd,42.36644674,-71.07654601,Year Round,Cambridge,19,144
+A32056,Riverway at Brookline Ave,42.33661006,-71.1100468,Year Round,Boston,25,594
+A32070,Ringer Park - Webley St at Armington St,42.352256,-71.137183,Year Round,Boston,16,No ID pre-March 2023
+C32058,Ring Rd,42.34827839,-71.08044855,Year Round,Boston,3,352
+M32036,Rindge Avenue - O'Neill Library,42.392766,-71.129042,Year Round,Cambridge,19,145
+R32007,Revere Public Library,42.408088,-71.008942,Year Round,Revere,11,484
+R32006,Revere City Hall,42.40741,-71.0139,Year Round,Revere,11,485
+R32009,Revere Beach - Markey Footbridge,42.414019,-70.989609,Year Round,Revere,11,No ID pre-March 2023
+M32079,Raymond Park at Walden St,42.38736954,-71.12761001,Year Round,Cambridge,19,564
+L32001,Railroad Lot and Minuteman Bikeway,42.41606457,-71.15336637,Year Round,Arlington,11,461
+A32026,Purchase St at Pearl St,42.354659,-71.053181,Year Round,Boston,19,192
+C32007,Prudential Center - 101 Huntington Ave,42.34652004,-71.08065777,Year Round,Boston,18,21
+S32008,Powder House Circle - Nathan Tufts Park,42.400877,-71.116772,Year Round,Somerville,15,102
+A32050,Porzio Park,42.36411904,-71.02876782,Year Round,Boston,17,483
+M32029,Porter Square Station,42.387995,-71.119084,Year Round,Cambridge,19,115
+C23015,Pope John Paul II Park - Neponset Trail at Hallet St,42.279774,-71.046085,Year Round,Boston,19,No ID pre-March 2023
+C32107,Pier 4 Blvd at Autumn Ln,42.3502102,-71.0446705,Year Round,Boston,19,561
+S32034,Perry Park,42.37927325,-71.10341903,Year Round,Somerville,19,377
+Z32997,Parker St at Huntington Ave,42.33848849,-71.09261138,Year Round,Boston,19,No ID pre-March 2023
+B32068,Park Street T Stop - Tremont St at Park St,42.356627,-71.062457,Year Round,Boston,28,No ID pre-March 2023
+C32039,Park St at Norwell St,42.29442579,-71.07821761,Year Round,Boston,15,255
+D32042,Park Plaza at Charles St S.,42.35182807,-71.06781138,Year Round,Boston,19,345
+A32008,Park Dr at Buswell St,42.347241,-71.105301,Year Round,Boston,15,19
+A32012,Packard's Corner - Commonwealth Ave at Brighton Ave,42.352261,-71.123831,Year Round,Boston,27,41
+S32009,Packard Ave at Powderhouse Blvd,42.40449,-71.123413,Year Round,Somerville,15,111
+R32002,Orr Sq (Shirley Ave),42.40715656,-70.9927243,Year Round,Revere,11,541
+A32035,Orient Heights T Stop - Bennington St at Saratoga St,42.386781,-71.006098,Year Round,Boston,19,217
+M32053,One Memorial Drive,42.36161932,-71.08043551,Year Round,Cambridge,19,228
+M32002,One Kendall Square at Hampshire St / Portland St,42.366277,-71.09169,Year Round,Cambridge,19,91
+M32003,One Broadway / Kendall Sq at Main St / 3rd St,42.36224179,-71.08311072,Year Round,Cambridge,23,72
+B32036,One Brigham Circle,42.3339227,-71.10446509,Year Round,Boston,15,359
+B32061,One Beacon St,42.35847764,-71.0613513,Year Round,Boston,16,529
+M32076,Old Morse Park at Putnam Ave,42.35766248,-71.10841334,Year Round,Cambridge,15,544
+D32076,Oak Square - Washington St at Bigelow St,42.350623,-71.167443,Year Round,Boston,20,No ID pre-March 2023
+D32031,Oak Square - 615 Washington St,42.35057,-71.166491,Year Round,Boston,15,208
+M32090,O'Brien Highway at First Street,42.370982,-71.076638,Year Round,Cambridge,19,No ID pre-March 2023
+B32017,Nubian Square - Bolling Building,42.32984299,-71.08386572,Year Round,Boston,18,56
+R32004,Northern Strand at Salem Street,42.441956,-71.014680,Year Round,Revere,11,No ID pre-March 2023
+G32002,Northern Strand at Main St,42.42386,-71.067793,Year Round,Malden,11,585
+G32004,Northern Strand at Bike Kitchen,42.420834,-71.072165,Year Round,Malden,11,No ID pre-March 2023
+V32017,Northern Strand - West St & Wellington Ave,42.403444,-71.063278,Year Round,Everett,11,No ID pre-March 2023
+C32071,Northern Ave at Haul Rd,42.347181,-71.035796,Year Round,Boston,20,No ID pre-March 2023
+C32068,Northampton St at Fellows St,42.330982,-71.075526,Year Round,Boston,19,No ID pre-March 2023
+T32015,North St at Liberty Hill Ave,42.52989965,-70.90614259,Year Round,Salem,11,589
+N32002,Nonantum Library,42.36068456,-71.201462,Year Round,Newton,15,468
+W32007,Nichols Ave. at Watertown Greenway,42.36762049,-71.15656637,Year Round,Watertown,12,509
+N32013,Newton Library,42.33620337,-71.20779455,Year Round,Newton,13,527
+N32010,Newton Highlands T,42.32206566,-71.20637298,Year Round,Newton,15,524
+C32022,Newmarket Square T Stop - Massachusetts Ave at Newmarket Square,42.326599,-71.066498,Year Round,Boston,15,138
+D32001,New Balance - 20 Guest St,42.35732922,-71.1467354,Year Round,Boston,15,37
+B32027,NCAAA - Walnut Ave at Crawford St,42.316902,-71.091946,Year Round,Boston,15,201
+A32021,Nashua Street at Red Auerbach Way [Extension],42.365858,-71.064157,Year Round,Boston,32,No ID pre-March 2023
+A32025,Nashua Street at Red Auerbach Way,42.365673,-71.064263,Year Round,Boston,37,190
+A32015,N. Harvard St at Harvard Way,42.366783,-71.125175,Winter Storage,Boston,20,No ID pre-March 2023
+F32015,Mystic Valley Parkway at River Station,42.415045,-71.138979,Year Round,Arlington,12,No ID pre-March 2023
+F32016,Mystic Ave at Crescent St,42.410810,-71.106276,Year Round,Medford,11,No ID pre-March 2023
+M32045,Museum of Science,42.36769018,-71.07116282,Year Round,Cambridge,19,182
+C32023,Murphy Skating Rink - 1880 Day Blvd,42.336448,-71.023739,Year Round,Boston,19,146
+D32017,Mugar Way at Beacon St,42.35553628,-71.0728687,Year Round,Boston,19,58
+M32043,Mt Auburn,42.37478629,-71.13320231,Year Round,Cambridge,19,180
+C32103,Morton St at Gallivan Blvd,42.278747,-71.080286,Year Round,Boston,15,545
+M32086,Morgan Ave at North First St,42.37197726,-71.07585847,Year Round,Cambridge,23,No ID pre-March 2023
+M32089,Moore Youth Center,42.363539,-71.111698,Year Round,Cambridge,15,No ID pre-March 2023
+B32023,MLK Blvd at Washington St,42.32143814,-71.09126061,Year Round,Boston,15,197
+M32042,MIT Vassar St,42.35560121,-71.10394478,Year Round,Cambridge,53,179
+M32005,MIT Stata Center at Vassar St / Main St,42.36213123,-71.09115601,Year Round,Cambridge,35,80
+M32041,MIT Pacific St at Purrington St,42.3595732,-71.10129476,Year Round,Cambridge,19,178
+M32071,MIT Hayward St at Amherst St,42.36085937,-71.08551858,Year Round,Cambridge,27,472
+M32070,MIT Carleton St at Amherst St,42.36054174,-71.08669817,Year Round,Cambridge,27,471
+M32006,MIT at Mass Ave / Amherst St,42.3581,-71.093198,Year Round,Cambridge,31,67
+L32009,Mill St. at Minuteman Bikeway,42.418603,-71.157536,Year Round,Arlington,11,No ID pre-March 2023
+L32010,Medford St at Warren St,42.416491,-71.148134,Year Round,Arlington,11,No ID pre-March 2023
+D32066,Medford St at McNulty Ct,42.379166,-71.057863,Year Round,Boston,20,No ID pre-March 2023
+D32037,Medford St at Charlestown BCYF,42.38042947,-71.06055722,Year Round,Boston,19,358
+F32002,Medford Sq - Riverside Ave at River St,42.417724,-71.108102,Year Round,Medford,11,577
+C32112,Meaney Playground - Pleasant St at E Cottage St,42.31870275,-71.05889978,Year Round,Boston,17,No ID pre-March 2023
+T32004,Mayor Salvo Path at Mill St,42.5180352,-70.89570075,Year Round,Salem,11,519
+A32044,Maverick St at Massport Path,42.36774122,-71.03335975,Year Round,Boston,15,436
+A32030,Maverick Square - Lewis Mall,42.36884408,-71.03977829,Year Round,Boston,33,212
+C32045,Mattapan T Stop,42.267902,-71.093641,Year Round,Boston,15,336
+C32050,Mattapan Library,42.2773889,-71.09325,Year Round,Boston,15,353
+C32004,Massachusetts Ave at Columbus Ave,42.340835,-71.0816197,Year Round,Boston,14,57
+B32065,Massachusetts Ave at Boylston St.,42.34752,-71.088012,Year Round,Boston,24,No ID pre-March 2023
+M32085,Mass Ave/Lafayette Square,42.36356499,-71.10044184,Year Round,Cambridge,15,No ID pre-March 2023
+C32063,Mass Ave T Stop,42.34135616,-71.08336953,Year Round,Boston,16,404
+M32056,Mass Ave at Hadley/Walden,42.39120972,-71.12260755,Year Round,Cambridge,19,334
+L32003,Mass Ave at Grafton St,42.40726052,-71.14382132,Year Round,Arlington,11,464
+L32006,[Removed] [Removed] Mass Ave at Broadway,42.41420213,-71.15051883,Year Round,Arlington,0,510
+L320013,Mass Ave at Alewife Greenway,42.401325,-71.136510,Year Round,Arlington,12,No ID pre-March 2023
+M32061,Mass Ave at Albany St,42.36135838,-71.09670274,Year Round,Cambridge,18,380
+E32012,Martha Eliot Health Center,42.324173,-71.10196,Year Round,Boston,16,488
+D32074,Market St at Mapleton St,42.352622,-71.151397,Winter Storage,Boston,16,No ID pre-March 2023
+A32048,Marion St at White St,42.38066931,-71.03907316,Year Round,Boston,19,477
+K32012,Marion St at Harvard St,42.34012243,-71.12070564,Year Round,Brookline,15,403
+G32006,Maplewood Square,42.260090,-71.024660,Year Round,Malden,11,No ID pre-March 2023
+G32003,Malden High School,42.42653766,-71.06393695,Year Round,Malden,11,587
+G32001,Malden Center T Station,42.426541,-71.073179,Year Round,Malden,11,584
+M32080,Main Street/Albany Street/Technology Square,42.3629016,-71.0915669,Year Round,Cambridge,23,566
+D32038,Main St at Thompson Sq,42.37487847,-71.06383499,Year Round,Boston,15,327
+D32064,Main St at Salem St,42.377370,-71.066770,Year Round,Boston,20,No ID pre-March 2023
+F32001,Main St at Brooks Park,42.411709,-71.110444,Year Round,Medford,11,576
+D32036,Main St at Baldwin St,42.380857,-71.070629,Year Round,Boston,19,280
+D32020,Main St at Austin St,42.375603,-71.064608,Year Round,Boston,11,94
+S32013,Magoun Square at Trum Field,42.3977834,-71.10594004,Year Round,Somerville,19,137
+M32022,Lower Cambridgeport at Magazine St / Riverside Rd,42.3572185,-71.11387163,Year Round,Cambridge,19,105
+A32004,Longwood Ave at Binney St,42.338629,-71.1065,Year Round,Boston,15,11
+F32008,Logan Park,42.41800743,-71.09657221,Year Round,Medford,11,No ID pre-March 2023
+L32002,Linwood St at Minuteman Bikeway,42.40935396,-71.14906519,Year Round,Arlington,11,462
+M32025,Linear Park - Mass. Ave. at Cameron Ave.,42.397828,-71.130516,Year Round,Cambridge,19,No ID pre-March 2023
+E32015,Lincoln St at Empire St,42.357651,-71.128513,Year Round,Boston,19,No ID pre-March 2023
+D32006,Lewis Wharf at Atlantic Ave,42.363871,-71.050877,Year Round,Boston,31,40
+A32057,Lewis Mall Wharf,42.36567871,-71.04030132,Year Round,Boston,21,No ID pre-March 2023
+M32039,Lesley University,42.38674802,-71.11901879,Year Round,Cambridge,15,176
+D32061,Lenox St at Kendall St,42.33759485,-71.08255059,Year Round,Boston,17,No ID pre-March 2023
+M32001,[Removed] Lechmere Station at Cambridge St / First St,42.370677,-71.076529,Year Round,Cambridge,0,No ID pre-March 2023
+M32095,Lechmere Canal Park,42.36984,-71.076079,Year Round,Cambridge,27,No ID pre-March 2023
+B32058,Lansdowne T Stop,42.34734473,-71.10016808,Year Round,Boston,27,400
+B32015,Landmark Center - Brookline Ave at Park Dr,42.34369056,-71.10235287,Year Round,Boston,15,32
+L32008,Lake St. at Minuteman Bikeway,42.40417,-71.146904,Year Round,Arlington,11,No ID pre-March 2023
+M32009,Lafayette Square at Mass Ave / Main St / Columbia St,42.36346469,-71.10057324,Year Round,Cambridge,15,75
+T32006,Lafayette at Leach St,42.51142784,-70.89183301,Year Round,Salem,11,521
+G32005,Kierstead Park,42.429338,-71.051913,Year Round,Malden,11,No ID pre-March 2023
+M32065,Kennedy-Longfellow School 158 Spring St,42.36955298,-71.08579015,Year Round,Cambridge,19,413
+B32010,Kenmore Square,42.348706,-71.097009,Year Round,Boston,27,33
+M32004,Kendall T,42.36242784,-71.08495474,Year Round,Cambridge,23,189
+M32032,Kendall Street,42.36356016,-71.08216792,Year Round,Cambridge,15,141
+V32013,Kearins Playground,42.40616124,-71.06041655,Year Round,Everett,11,482
+M32083,John Ahern Field at Kennedy-Longfellow School,42.36903567,-71.0863096,Year Round,Cambridge,19,590
+C32013,JFK/UMass T Stop,42.32033974,-71.05118036,Year Round,Boston,31,93
+K32004,JFK Crossing at Harvard St. / Thorndike St.,42.34655124,-71.12833211,Year Round,Brookline,15,103
+B32011,[Removed] Jersey St. at Boylston St.,42.349228,-71.095751,Year Round,Boston,0,No ID pre-March 2023
+D32052,Jamaica St at South St,42.30604563,-71.11570891,Year Round,Boston,19,424
+E32006,Jackson Square T Stop,42.32293117,-71.10014141,Year Round,Boston,18,131
+B32040,Ipswich St at Van Ness St,42.345809,-71.095485,Year Round,Boston,15,No ID pre-March 2023
+A32011,Innovation Lab - 125 Western Ave at Batten Way,42.36371276,-71.12459779,Year Round,Boston,19,29
+S32057,Innerbelt at East Somerville Station,42.379591,-71.086431,Year Round,Somerville,19,No ID pre-March 2023
+M32062,Inman Square at Springfield St.,42.37426714,-71.10026479,Year Round,Cambridge,25,381
+C32025,Ink Block - Harrison Ave at Herald St,42.345901,-71.063187,Year Round,Boston,26,152
+C32021,ID Building West,42.344796,-71.031614,Year Round,Boston,19,136
+C32020,ID Building East,42.344827,-71.028664,Year Round,Boston,17,135
+E32003,Hyde Square - Centre St at Perkins St,42.32176526,-71.10984161,Year Round,Boston,19,125
+E32013,Hyde Park Library,42.2568376,-71.122509,Year Round,Boston,15,555
+C32089,Hyde Park Ave at Walk Hill St,42.29606705,-71.116012,Year Round,Boston,15,442
+M32044,Huron Ave At Vassal Lane,42.38165061,-71.13426981,Year Round,Cambridge,19,181
+B32069,Huntington Ave at St. Alphonsus St,42.336113,-71.099217,Year Round,Boston,16,No ID pre-March 2023
+B32033,Huntington Ave at Mass Art,42.33658555,-71.09886996,Year Round,Boston,15,331
+B32039,Huntington Ave at Colburn St,42.332681,-71.110833,Winter Storage,Boston,19,No ID pre-March 2023
+F32006,Hormel Stadium,42.40721644,-71.09651506,Year Round,Medford,11,No ID pre-March 2023
+D32060,Hood Park,42.38004535,-71.07304573,Year Round,Boston,23,569
+A32040,Honan Library,42.3602737,-71.12852452,Year Round,Boston,15,376
+B32003,HMS/HSPH - Avenue Louis Pasteur at Longwood Ave,42.33741748,-71.10286117,Year Round,Boston,25,14
+A32059,High St at Federal St,42.353528,-71.056222,Year Round,Boston,20,No ID pre-March 2023
+K32010,High St at Cypress St,42.32464511,-71.12135231,Year Round,Brookline,15,401
+F32009,Hickey Park,42.424981,-71.098973,Year Round,Medford,19,No ID pre-March 2023
+A32063,Herter Park,42.365724,-71.135393,Year Round,Boston,19,No ID pre-March 2023
+T32008,Hawthorne Boulevard,42.5223714,-70.8903331,Year Round,Salem,9,562
+M32038,Harvard University River Houses at DeWolfe St / Cowperthwaite St,42.36923907,-71.11687034,Year Round,Cambridge,21,97
+M32024,Harvard University Radcliffe Quadrangle at Shepard St / Garden St,42.380287,-71.125107,Year Round,Cambridge,19,104
+M32014,Harvard University Housing - 115 Putnam Ave at Peabody Terrace,42.366621,-71.114214,Year Round,Cambridge,15,87
+M32021,Harvard University Gund Hall at Quincy St / Kirkland St,42.376369,-71.114025,Year Round,Cambridge,15,110
+M32023,Harvard University / SEAS Cruft-Pierce Halls at 29 Oxford St,42.377945,-71.116865,Year Round,Cambridge,17,108
+A32052,Harvard Stadium: N. Harvard St at Soldiers Field Rd,42.368019,-71.1242,Year Round,Boston,15,492
+M32055,Harvard St at Greene-Rose Heritage Park,42.36599433,-71.09522222,Year Round,Cambridge,19,335
+K32017,Harvard St and Stedman St,42.34435176,-71.12490356,Year Round,Brookline,15,531
+M32018,Harvard Square at Mass Ave/ Dunster,42.373268,-71.118579,Year Round,Cambridge,19,74
+M32017,Harvard Square at Brattle St / Eliot St,42.3733288,-71.12098601,Year Round,Cambridge,15,73
+M32020,Harvard Law School at Mass Ave / Jarvis St,42.379011,-71.119945,Year Round,Cambridge,19,89
+M32016,Harvard Kennedy School at Bennett St / Eliot St,42.3722168,-71.12188071,Year Round,Cambridge,23,70
+D32035,Harvard Ave at Brainerd Rd,42.34953017,-71.13022771,Year Round,Boston,15,332
+C32057,Harrison Ave at Mullins Way,42.34521562,-71.06384031,Year Round,Boston,19,363
+C32093,Harrison Ave at E. Dedham St,42.339194,-71.06975,Year Round,Boston,19,491
+D32043,Harrison Ave at Bennet St,42.3494261,-71.0620996,Year Round,Boston,19,365
+F32004,Harris Park,42.41081837,-71.08152866,Year Round,Medford,11,No ID pre-March 2023
+C32011,Harbor St at Channel St,42.345144,-71.036453,Year Round,Boston,16,No ID pre-March 2023
+C32113,Hancock St at Pleasant St,42.30981925,-71.06019938,Year Round,Boston,19,No ID pre-March 2023
+V32012,Hale Park,42.4153271,-71.0528183,Year Round,Everett,11,448
+F32005,Haines Square,42.42333137,-71.09124541,Year Round,Medford,11,No ID pre-March 2023
+S32019,Grove St at Community Path,42.39638681,-71.12011306,Year Round,Somerville,15,328
+B32028,Grove Hall Library - 41 Geneva Ave,42.30791,-71.080952,Year Round,Boston,15,202
+E32005,Green Street T Stop - Green St at Amory St,42.310579,-71.107341,Year Round,Boston,23,133
+S32055,Grand Union Blvd at Revolution Dr,42.391658,-71.080351,Year Round,Somerville,19,No ID pre-March 2023
+V32015,Gramsdorf Playground,42.408156,-71.0429,Year Round,Everett,14,586
+M32068,Graham and Parks School – Linnaean St at Walker St,42.3829443,-71.12449831,Year Round,Cambridge,19,456
+F32013,Governors Ave at Lawrence Rd,42.425178,-71.110386,Year Round,Medford,11,No ID pre-March 2023
+B32032,Government Center - Cambridge St at Court St,42.3598254,-71.05979576,Year Round,Boston,35,206
+A32049,Gove St at Orleans St,42.37057753,-71.0355854,Year Round,Boston,19,478
+M32081,Gore Street at Lambert Street,42.3730798,-71.08634234,Year Round,Cambridge,19,582
+T32014,Goodhue St at Grove St,42.520897,-70.910528,Year Round,Salem,11,575
+V32006,Glendale Square (Ferry St at Broadway),42.41427294,-71.04479656,Year Round,Everett,15,392
+S32046,Gilman Square T at Medford St,42.3867355,-71.0946444,Year Round,Somerville,19,514
+C32090,Geiger Gibson Community Health Center,42.31886468,-71.04536798,Year Round,Boston,19,445
+D32075,Gardner St at Harvard Ave,42.353508,-71.131932,Year Round,Boston,15,No ID pre-March 2023
+C32040,Gallivan Blvd at Adams St,42.28297568,-71.05466698,Year Round,Boston,15,258
+M32072,Galileo Galilei Way at Main Street,42.36300378,-71.08974038,Year Round,Cambridge,19,479
+M32078,Galileo Galilei Way at Fulkerson St/Binney St,42.3664204,-71.0885418,Year Round,Cambridge,19,557
+W32012,Galen St at Watertown St,42.36428,-71.18573,Year Round,Watertown,11,No ID pre-March 2023
+M32051,Fresh Pond Reservation,42.38267828,-71.14347895,Year Round,Cambridge,17,224
+D32078,Franklin St at Cambridge St,42.355792,-71.132865,Year Round,Boston,19,No ID pre-March 2023
+C32030,Franklin Park Zoo - Franklin Park Rd at Blue Hill Ave,42.303469,-71.085347,Year Round,Boston,14,170
+C32027,Franklin Park - Seaver St at Humboldt Ave,42.309796,-71.092225,Year Round,Boston,15,162
+C32111,Four Corners/Geneva T Stop,42.30321535,-71.07820988,Year Round,Boston,15,No ID pre-March 2023
+C32037,Four Corners - 157 Washington St,42.30412793,-71.07929528,Year Round,Boston,11,232
+S32015,Foss Park,42.39108438,-71.09039426,Year Round,Somerville,15,188
+B32062,Forsyth St at Huntington Ave,42.339202,-71.090511,Year Round,Boston,15,554
+T32010,Forest River Park,42.506395,-70.88693,Year Round,Salem,11,571
+E32010,Forest Hills,42.300923,-71.114249,Year Round,Boston,40,273
+S32047,Foley St at Grand Union Blvd,42.3930184,-71.08071685,Year Round,Somerville,19,530
+T32019,Flint St & Bridge St.,42.521393,-70.905806,Year Round,Salem,11,No ID pre-March 2023
+B32064,Flat 9 at Whittier,42.33420351,-71.08767617,Year Round,Boston,15,560
+C32041,Fields Corner T Stop,42.29963349,-71.06068976,Year Round,Boston,15,260
+C32051,Farragut Rd at E. 6th St,42.3334,-71.02495,Year Round,Boston,23,296
+D32003,Faneuil St at Bothwell Rd,42.353349,-71.159358,Year Round,Boston,20,No ID pre-March 2023
+A32000,Fan Pier,42.35339051,-71.0445714,Year Round,Boston,15,7
+V32003,Everett Square (Broadway at Norwood St),42.406872,-71.055786,Year Round,Everett,14,389
+T32011,Essex St at Dalton Parkway,42.516223,-70.905535,Year Round,Salem,11,572
+V32005,Encore,42.39329263,-71.0724476,Year Round,Everett,15,391
+S32039,Elm St at White St,42.38952436,-71.1169414,Year Round,Somerville,19,409
+R32008,Eliot Circle Revere Beach,42.402889,-70.989972,Year Round,Revere,11,No ID pre-March 2023
+M32092,Elevate at One Leighton,42.369931,-71.073526,Year Round,Cambridge,17,No ID pre-March 2023
+E32004,Egleston Square - Atherton St at Washington St,42.315692,-71.098634,Year Round,Boston,15,126
+M32034,EF - North Point Park,42.369885,-71.069957,Year Round,Cambridge,23,143
+A32022,Edwards Playground - Main St at Eden St,42.378965,-71.068607,Year Round,Boston,19,169
+S32038,Edgerly Education Center,42.38717463,-71.08714389,Year Round,Somerville,15,408
+S32017,East Somerville Library (Broadway and Illinois),42.38762811,-71.08318716,Year Round,Somerville,15,235
+A32031,East Boston Neighborhood Health Center - 20 Maverick Square,42.369536,-71.039431,Year Round,Boston,16,213
+C32015,Dudley Town Common - Mt Pleasant Ave at Blue Hill Ave,42.325333,-71.075354,Year Round,Boston,15,106
+C32066,Dorchester Ave at King St,42.291718,-71.062571,Year Round,Boston,15,No ID pre-March 2023
+C32009,Dorchester Ave at Gillette Park,42.34404051,-71.05737627,Year Round,Boston,15,63
+M32066,Discovery Park - 30 Acorn Park Drive,42.39790817,-71.14797131,Year Round,Cambridge,23,414
+T32018,Derby Street,42.52009618,-70.89139044,Year Round,Salem,11,No ID pre-March 2023
+B32037,Deerfield St at Commonwealth Ave,42.34924377,-71.0972821,Year Round,Boston,43,361
+A32051,Day Sq,42.379295,-71.027733,Year Round,Boston,16,489
+S32006,Davis Square,42.396969,-71.123024,Year Round,Somerville,25,100
+D32045,Dartmouth St at Newbury St,42.35096144,-71.07782811,Year Round,Boston,19,370
+M32075,Danehy Park at New Street,42.389456,-71.139019,Year Round,Cambridge,19,533
+M32031,Danehy Park,42.388966,-71.132788,Year Round,Cambridge,17,140
+M32030,Dana Park,42.36178044,-71.10809952,Year Round,Cambridge,19,139
+C32069,Damrell St at Old Colony,42.332482,-71.054241,Year Round,Boston,19,No ID pre-March 2023
+K32009,Cypress St at Clark Playground,42.32784317,-71.12536222,Year Round,Brookline,15,187
+E32001,Curtis Hall - South St at Centre St,42.309054,-71.11543,Year Round,Boston,15,124
+Z32999,Cummins Highway at Blue Hill Ave T Stop,42.26998847,-71.09746183,Year Round,Boston,14,No ID pre-March 2023
+D32068,Cross St at Stillman St,42.363708,-71.057493,Year Round,Boston,16,No ID pre-March 2023
+D32010,Cross St at Hanover St,42.362811,-71.056067,Year Round,Boston,19,47
+S32037,Craigie St at Summer St,42.38831608,-71.11068249,Year Round,Somerville,19,407
+D32005,Copley Square - Dartmouth St at Boylston St,42.34992828,-71.07739207,Year Round,Boston,33,36
+W32001,Coolidge Sq.,42.37207611,-71.15683131,Year Round,Watertown,12,455
+K32001,Coolidge Corner - Beacon St at Centre St,42.341598,-71.123338,Year Round,Brookline,19,69
+S32004,Conway Park - Somerville Avenue,42.38363895,-71.10853672,Year Round,Somerville,23,71
+D32065,Constitution Rd at Chelsea St,42.373509,-71.058300,Year Round,Boston,20,No ID pre-March 2023
+C32032,Congress St at Northern Ave,42.3481,-71.03764,Year Round,Boston,15,186
+D32009,Congress St at Boston City Hall,42.36041775,-71.05752244,Year Round,Boston,23,44
+M32074,Concord Ave at Spinelli Place,42.390719,-71.1538877,Year Round,Cambridge,19,532
+S32040,Community Path at Lowell St,42.392525,-71.105587,Year Round,Somerville,19,487
+S32022,Community Path at Cedar Street,42.39407224,-71.11133695,Year Round,Somerville,15,239
+E32016,Commonwealth Ave at Naples Rd,42.351911,-71.123798,Year Round,Boston,15,No ID pre-March 2023
+D32034,Commonwealth Ave at Kelton St,42.34835863,-71.13997217,Year Round,Boston,15,338
+A32017,Commonwealth Ave at Griggs St,42.34922469,-71.13275303,Year Round,Boston,15,66
+B32060,Commonwealth Ave at Granby St,42.34960945,-71.10391524,Year Round,Boston,16,446
+D32063,Commonwealth Ave at Fidelis Way,42.345865,-71.141902,Year Round,Boston,12,No ID pre-March 2023
+D32033,Commonwealth Ave at Chiswick Rd,42.34024645,-71.15168806,Year Round,Boston,19,344
+D320670,Commonwealth Ave at Chestnut Hill Dr,42.338415,-71.154428,Winter Storage,Boston,19,No ID pre-March 2023
+B32067,Commonwealth Ave at Blandford Mall,42.349007,-71.100472,Year Round,Boston,20,No ID pre-March 2023
+K32006,Commonwealth Ave At Babcock St,42.35154735,-71.12126246,Year Round,Brookline,15,226
+A32002,Commonwealth Ave at Agganis Way,42.35169202,-71.11903489,Year Round,Boston,15,9
+A32061,Commercial St at Charter St,42.36817,-71.056847,Year Round,Boston,19,No ID pre-March 2023
+C32077,Columbus Ave at W. Canton St,42.34474225,-71.07648162,Year Round,Boston,19,417
+C32052,Columbia Rd at Tierney Community Center,42.33023071,-71.05060093,Year Round,Boston,19,362
+B32029,Columbia Rd at Ceylon St,42.309572,-71.0729,Year Round,Boston,15,203
+B32006,Colleges of the Fenway - Fenway at Avenue Louis Pasteur,42.34011512,-71.10061884,Year Round,Boston,15,3
+C32055,Codman Square Library,42.2873611,-71.071111,Year Round,Boston,17,350
+D32057,Clinton St at North St,42.36070284,-71.05524927,Year Round,Boston,18,536
+B32035,Cleveland Circle,42.33554308,-71.1506152,Year Round,Boston,15,346
+C32104,Cleary Sq,42.2556,-71.12444,Year Round,Boston,16,546
+S32010,Clarendon Hill at Broadway,42.406302,-71.132446,Year Round,Somerville,15,112
+C32099,Circuit Drive at American Legion Hwy,42.29704126,-71.09171927,Year Round,Boston,19,538
+M32087,Church St,42.37433925,-71.11966431,Year Round,Cambridge,15,No ID pre-March 2023
+B32005,Christian Science Plaza - Massachusetts Ave at Westland Ave,42.34366582,-71.08582377,Year Round,Boston,39,46
+D32019,Chinatown T Stop,42.352409,-71.062679,Year Round,Boston,19,81
+D32015,Chinatown Gate Plaza,42.351356,-71.059367,Year Round,Boston,19,59
+M32049,Child Street at Brian P. Murphy Staircase,42.37197678,-71.07200496,Year Round,Cambridge,23,195
+S32053,Chestnut St at Poplar St,42.377636,-71.085954,Year Round,Somerville,19,No ID pre-March 2023
+B32038,Chestnut Hill Ave at Ledgemere Rd,42.343706,-71.153257,Year Round,Boston,19,No ID pre-March 2023
+H32005,Chelsea Station,42.39636528,-71.03987179,Year Round,Chelsea,11,507
+V32016,Chelsea St at Vine St,42.40336946,-71.04731441,Year Round,Everett,11,395
+D32067,Chelsea St at Medford St,42.378570,-71.052980,Year Round,Boston,20,No ID pre-March 2023
+H32003,Chelsea Square,42.39022671,-71.03857018,Year Round,Chelsea,11,505
+D32039,Charlestown Navy Yard,42.37412455,-71.054812,Year Round,Boston,23,356
+D32025,Charles St S at Stuart St,42.350778,-71.066694,Year Round,Boston,16,No ID pre-March 2023
+D32051,[Removed] Charles St at Pinckney St,42.377370,-71.066770,Year Round,Boston,0,No ID pre-March 2023
+D32016,Charles Circle - Charles St at Cambridge St,42.36079297,-71.07118962,Year Round,Boston,19,60
+N32000,Centre St at Washington St,42.35574335,-71.18641943,Year Round,Newton,11,466
+C32085,Centre St at W. Roxbury Post Office,42.28633199,-71.15344755,Year Round,Boston,19,432
+C32086,Centre St at Parkway YMCA,42.28277901,-71.15728851,Year Round,Boston,19,433
+N32018,Centre St at Commonwealth Ave,42.3362358,-71.1934421,Year Round,Newton,11,559
+C32109,Centre St at Allandale St,42.300806,-71.127436,Year Round,Boston,23,No ID pre-March 2023
+A32041,Central Square East Boston,42.37544913,-71.03918549,Year Round,Boston,15,419
+M32011,Central Square at Mass Ave / Essex St,42.36507,-71.1031,Year Round,Cambridge,19,68
+M32012,Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St,42.366426,-71.105495,Year Round,Cambridge,17,76
+C32088,Central Ave at River St,42.27094707,-71.07337901,Year Round,Boston,15,435
+C23109,Cedar Grove T Stop,42.2796076,-71.0602212,Year Round,Boston,18,No ID pre-March 2023
+H32001,Cary Square,42.39813565,-71.03070972,Year Round,Chelsea,12,503
+F32011,Carr Park,42.434365,-71.094755,Year Round,Medford,11,No ID pre-March 2023
+M32019,Cambridgeside Pl at Land Blvd,42.36707407,-71.07679278,Year Round,Cambridge,15,84
+D32000,Cambridge St at Joy St,42.36125722,-71.06528744,Year Round,Boston,15,6
+M32007,Cambridge St - at Columbia St / Webster Ave,42.372969,-71.094445,Year Round,Cambridge,15,95
+M32013,Cambridge Main Library at Broadway / Trowbridge St,42.373379,-71.111075,Year Round,Cambridge,19,96
+M32052,Cambridge Dept. of Public Works -147 Hampshire St.,42.37119728,-71.09759867,Year Round,Cambridge,19,225
+M32077,Cambridge Crossing at North First Street,42.371141,-71.076198,Year Round,Cambridge,23,553
+N32011,California at Chapel,42.36514871,-71.20236039,Year Round,Newton,12,525
+E32017,Butler T Stop,42.272548,-71.062882,Year Round,Boston,15,No ID pre-March 2023
+B32020,Burlington Ave at Brookline Ave,42.345733,-71.100694,Year Round,Boston,15,122
+A32023,Bunker Hill Community College,42.37408991,-71.06905997,Year Round,Boston,23,171
+K32003,Brookline Village MBTA at Pearl Street,42.33274392,-71.11626681,Year Round,Brookline,19,86
+K32005,Brookline Town Hall,42.33376473,-71.12046447,Year Round,Brookline,15,193
+C32053,Broadway T Stop,42.34304858,-71.0580343,Year Round,Boston,27,366
+S32014,Broadway St at Mt Pleasant St,42.38614141,-71.0782814,Year Round,Somerville,19,194
+V32008,Broadway at Maple St,42.41034691,-71.05260458,Year Round,Everett,14,394
+V32004,Broadway at Lynde St,42.39648358,-71.0654676,Year Round,Everett,15,390
+Z32998,Broadway at Kittie Knox Bike Path,42.36412659,-71.08738632,Year Round,Cambridge,23,No ID pre-March 2023
+S32016,Broadway at Central St,42.3951715,-71.09850592,Year Round,Somerville,19,234
+V32011,Broadway at Beacham St,42.3983606,-71.06373843,Year Round,Everett,15,397
+M32082,Broad Canal Way at Third Street,42.3630455,-71.08287079,Year Round,Cambridge,19,583
+A32005,Brighton Mills - 370 Western Ave,42.36154571,-71.13776207,Year Round,Boston,15,15
+D32028,Brighton Center - Washington St at Cambridge St,42.34894857,-71.15027189,Year Round,Boston,17,175
+B32013,Brigham Circle - Francis St at Huntington Ave,42.33462893,-71.10407918,Year Round,Boston,15,30
+T32016,Bridge Street Neck,42.52810052,-70.88971138,Year Round,Salem,11,No ID pre-March 2023
+A32032,Bremen St at Marion St,42.37410622,-71.03276253,Year Round,Boston,11,214
+S32050,Boynton Yards at 101 South Street,42.37471,-71.091236,Year Round,Somerville,19,No ID pre-March 2023
+B32018,Boylston St at Massachusetts Ave,42.34740621,-71.08678415,Year Round,Boston,15,55
+B32034,Boylston St at Jersey St,42.34465063,-71.09732501,Year Round,Boston,15,342
+C32008,Boylston St at Fairfield St,42.34880382,-71.08236909,Year Round,Boston,19,61
+D32046,Boylston St at Exeter St,42.34958942,-71.07946779,Year Round,Boston,19,372
+D32013,Boylston St at Berkeley St,42.35114198,-71.07329249,Year Round,Boston,19,50
+B32031,Bowdoin St at Quincy St,42.30785224,-71.06512249,Year Round,Boston,15,205
+D32027,Boston Public Market - Surface Rd at Sudbury St,42.362561,-71.057489,Year Round,Boston,32,No ID pre-March 2023
+D32044,[Removed] Boston Public Market,42.356776,-71.055498,Year Round,Boston,0,No ID pre-March 2023
+A32045,Boston Landing,42.35656092,-71.14167538,Year Round,Boston,15,440
+A32036,Boston East - 126 Border St,42.37331213,-71.04102008,Year Round,Boston,15,219
+D32018,Boston Convention and Exhibition Center - Summer St at West Side Dr,42.34776345,-71.04535997,Year Round,Boston,39,65
+N32009,Boston College T,42.33987892,-71.16708934,Year Round,Newton,17,523
+B32008,Boston City Hall - 28 State St,42.35892,-71.057629,Year Round,Boston,25,23
+C32092,Blue Hill Ave at Havelock St,42.286012,-71.090986,Year Round,Boston,18,490
+C32044,Blue Hill Ave at Almont St,42.27462067,-71.09372552,Year Round,Boston,19,340
+M32027,Binney St / Sixth St,42.36608797,-71.08633604,Year Round,Cambridge,19,117
+C32082,Bike Town at Moakley Park,42.325860,-71.049142,Year Round,Boston,15,No ID pre-March 2023
+M32067,Berkshire Street at Cambridge Street,42.37207658,-71.08995434,Year Round,Cambridge,19,437
+A32066,Bennington St at Marion St,42.375909,-71.035985,Year Round,Boston,20,No ID pre-March 2023
+A32039,Bennington St at Constitution Beach,42.38522394,-71.01063069,Year Round,Boston,17,355
+A32028,Bennington St at Byron St,42.38353252,-71.01619095,Year Round,Boston,15,210
+H32002,Bellingham Square,42.39319611,-71.0334456,Year Round,Chelsea,11,504
+C32059,Belgrade Ave at Walworth St,42.28634589,-71.1367213,Year Round,Boston,15,373
+S32003,Beacon St at Washington / Kirkland,42.37875351,-71.10707223,Year Round,Somerville,19,79
+K32002,Beacon St at Tappan St,42.3382668,-71.13894682,Year Round,Brookline,15,82
+D32024,Beacon St at Charles St,42.356052,-71.069849,Year Round,Boston,39,120
+N32012,Beacon at Walnut,42.33006232,-71.20668411,Year Round,Newton,15,526
+R32003,Beachmont Square at Suffolk Downs,42.397608,-70.993072,Year Round,Revere,11,No ID pre-March 2023
+C32108,Beach St at Freeport St,42.30367409,-71.05425954,Year Round,Boston,19,No ID pre-March 2023
+B32055,Bartlett St at John Elliot Sq,42.3294633,-71.0901582,Year Round,Boston,15,360
+S32007,Ball Sq,42.39936816,-71.11111522,Year Round,Somerville,19,101
+N32003,Bacon St at Washington St,42.35711921,-71.18604537,Year Round,Newton,11,469
+C32003,Back Bay T Stop - Dartmouth St at Stuart St,42.34807412,-71.07657015,Year Round,Boston,19,16
+A32003,B.U. Central T Stop - 725 Commonwealth Ave,42.350406,-71.108279,Year Round,Boston,11,10
+N32015,Auburndale,42.34805541,-71.24775946,Year Round,Newton,15,535
+ZZ32996,Auburn St. at Mystic River,42.4175909,-71.12608128,Year Round,Medford,11,No ID pre-March 2023
+C32026,Au Bon Pain Way at Fid Kennedy Ave,42.346101,-71.0292,Year Round,Boston,18,No ID pre-March 2023
+S32018,Assembly Square T,42.39223284,-71.07746601,Year Round,Somerville,15,236
+C32062,Ashmont T Stop,42.2856944,-71.0641389,Year Round,Boston,15,271
+A32065,Ashley St at Boardman,42.389155,-71.010409,Year Round,Boston,20,No ID pre-March 2023
+W32004,Arsenal Yards,42.36277389,-71.15764854,Year Round,Watertown,15,475
+W32009,Arsenal on the Charles,42.363499,-71.164217,Year Round,Watertown,19,No ID pre-March 2023
+C32048,Archdale Rd at Washington St,42.29266593,-71.12119539,Year Round,Boston,15,339
+B32004,Aquarium T Stop - 200 Atlantic Ave,42.36044136,-71.0504394,Year Round,Boston,23,20
+M32037,Ames St at Main St,42.3625,-71.08822,Year Round,Cambridge,19,107
+M32059,Ames St at Broadway,42.3636929,-71.0875672,Year Round,Cambridge,19,318
+C32079,American Legion Hwy at Cummins Hwy,42.27881158,-71.11687703,Year Round,Boston,15,422
+M32057,Alpine Path at Concord Ave,42.38536765,-71.13775671,Year Round,Cambridge,19,367
+M32033,Alewife Station at Russell Field,42.396105,-71.139459,Year Round,Cambridge,23,142
+M32046,Alewife MBTA at Steel Place,42.39558846,-71.14260614,Year Round,Cambridge,19,183
+C32061,Albany St at E. Brookline St,42.33664795,-71.0689446,Year Round,Boston,15,385
+A32055,Airport T Stop - Bremen St at Brooks St,42.37535377,-71.03131771,Year Round,Boston,15,214
+C32065,Adams St at Mallet St.,42.29167943,-71.05726346,Winter Storage,Boston,15,410
+W32011,99 Coolidge Ave,42.363675,-71.151786,Year Round,Watertown,11,No ID pre-March 2023
+M32073,955 Mass Ave,42.36895181,-71.1099878,Year Round,Cambridge,19,515
+M32084,87-101 Cambridgepark Drive,42.39522187,-71.14421904,Year Round,Cambridge,23,No ID pre-March 2023
+H32006,855 Broadway,42.39841773,-71.02390923,Year Round,Chelsea,11,508
+M32058,84 Cambridgepark Dr,42.3936,-71.143941,Year Round,Cambridge,27,319
+C32114,780 Morrissey Blvd,42.295305,-71.047186,Year Round,Boston,15,No ID pre-March 2023
+M32064,75 Binney St,42.36550729,-71.0801376,Year Round,Cambridge,19,398
+M32060,700 Huron Ave,42.38078817,-71.15412891,Year Round,Cambridge,19,371
+V32001,7 Acre Park,42.41143223,-71.06823265,Year Round,Everett,15,387
+M32054,699 Mt Auburn St,42.37500235,-71.14871614,Year Round,Cambridge,25,333
+C32091,645 Summer St,42.34178089,-71.03987017,Year Round,Boston,19,481
+H320010,615 Broadway,42.394541,-71.030828,Year Round,Chelsea,11,No ID pre-March 2023
+C32105,606 American Legion Hwy at Canterbury St,42.28578,-71.109725,Year Round,Boston,18,547
+C32106,555 Metropolitan Ave,42.2681,-71.11924,Year Round,Boston,18,548
+M32088,55 Wheeler Street,42.390821,-71.143946,Year Round,Cambridge,23,No ID pre-March 2023
+M32094,40 Thorndike St,42.369061,-71.079999,Year Round,Cambridge,19,No ID pre-March 2023
+D32073,39 Brighton Ave,42.352996,-71.126578,Year Round,Boston,16,No ID pre-March 2023
+M32026,359 Broadway - Broadway at Fayette Street,42.370803,-71.104412,Year Round,Cambridge,23,116
+M32091,325 Binney St.,42.36722,-71.08903,Year Round,Cambridge,19,No ID pre-March 2023
+C32070,300 Summer St,42.349784,-71.048935,Year Round,Boston,15,No ID pre-March 2023
+S32023,30 Dane St,42.38100143,-71.10402523,Year Round,Somerville,15,330
+C32094,2 Hummingbird Lane at Olmsted Green,42.28887,-71.095003,Year Round,Boston,17,493
+S32035,191 Beacon St,42.38032335,-71.10878613,Year Round,Somerville,19,378
+A32019,175 N Harvard St,42.36447457,-71.12840831,Year Round,Boston,18,149
+W32006,160 Arsenal St,42.36466403,-71.17569387,Year Round,Watertown,11,502
+K32015,1200 Beacon St,42.34414899,-71.11467361,Year Round,Brookline,15,452
+M32093,101 Smith Place,42.392568,-71.150761,Year Round,Cambridge,23,No ID pre-March 2023
+T32013,[***OLD NAME/LOCATION] Community Life Center,42.520136,-70.906271,Year Round,Salem,0,574
+C32073,Walk Hill St at American Legion,42.288015,-71.107306,Year Round,Boston,16,No ID pre-March 2023
+M32015,Vassal Lane at Tobin VLUS,42.384233,-71.140329,Year Round,Cambridge,24,No ID pre-March 2023
+B32071,St Alphonsus St at Horadan Way,42.335065,-71.099893,Year Round,Boston,15,No ID pre-March 2023
+D32080,Rugg Rd at Braintree St,42.356082,-71.135389,Year Round,Boston,15,No ID pre-March 2023
+B32043,Reservoir Rd at Beacon St,42.331459,-71.157672,Year Round,Boston,15,No ID pre-March 2023
+B32024,Pilgrim Rd at Brookline Ave,42.342600,-71.104903,Year Round,Boston,19,No ID pre-March 2023
+B32019,New Edgerly Plaza - Westland Ave at Edgerly Rd,42.343672,-71.087420,Year Round,Boston,16,No ID pre-March 2023
+S32060,Middlesex Ave at Foley St,42.392821,-71.083186,Year Round,Somerville,19,No ID pre-March 2023
+C32075,Huntington Ave at Exeter St,42.347856,-71.078951,Year Round,Boston,20,No ID pre-March 2023
+C32074,Harambee Park - Westview St at Blue Hill Ave,42.291261,-71.088675,Year Round,Boston,16,No ID pre-March 2023
+A32016,Gardner St at Alcorn St,42.353208,-71.123303,Year Round,Boston,19,No ID pre-March 2023
+B32001,Fenway at Museum Rd,42.339200,-71.096625,Year Round,Boston,21,No ID pre-March 2023
+B32009,Fenway at Forsyth Way,42.341022,-71.092105,Year Round,Boston,19,No ID pre-March 2023
+B32092,Congress St at Boston Wharf Rd,42.349515,-71.046713,Year Round,Boston,19,No ID pre-March 2023
+B32041,Chestnut Hill Ave at Winship St,42.345608,-71.152760,Year Round,Boston,19,No ID pre-March 2023
+D32079,Cambridge St at Warren St,42.350225,-71.146678,Year Round,Boston,15,No ID pre-March 2023
+D32081,Boylston T Stop,42.352506,-71.065283,Year Round,Boston,17,No ID pre-March 2023
+A32020,Atlantic Ave at Beach St,42.350708,-71.056589,Year Round,Boston,20,No ID pre-March 2023
